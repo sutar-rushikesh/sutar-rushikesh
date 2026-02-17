@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Rushikesh Sutar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=DevOps+Engineer;Cloud+%7C+AWS+%7C+Azure;CI%2FCD+Automation+Specialist;Kubernetes+%26+Containerization;Infrastructure+as+Code+Advocate" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=DevSecOps+Engineer;Cloud+%7C+AWS+%7C+Azure;CI%2FCD+Automation+Specialist;Kubernetes+%26+Containerization;Infrastructure+as+Code+" />
 </p>
 
 ---
