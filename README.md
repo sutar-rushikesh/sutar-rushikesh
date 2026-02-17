@@ -13,9 +13,12 @@
 
 ## 👨‍💻 Professional Summary
 
-DevOps Engineer with 3+ years of hands-on experience in designing, automating, and optimizing cloud-native infrastructure.
-
-Experienced in building production-ready CI/CD pipelines, managing Kubernetes workloads, and implementing Infrastructure as Code using Terraform and Ansible.
+Experienced in designing and managing CI/CD pipelines with Jenkins and automating infrastructure 
+with Terraform. Skilled in containerization using Docker and Kubernetes (EKS) and configuration 
+management with Ansible. Proficient in integrating DevOps tools like Nexus, SonarQube, and security 
+analysis tools such as OWASP. Strong expertise in Git/GitHub for version control and resolving merge 
+conflicts. Collaborates with cross-functional teams to optimize deployment, troubleshoot issues, and 
+ensure seamless software delivery.
 
 Focused on reliability, scalability, automation, and system performance optimization.
 
